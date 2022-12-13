@@ -66,7 +66,7 @@ const Navbar = () => {
                 <Input
                   type="search"
                   name="search"
-                  placeholder="Search Anime Here ..."
+                  placeholder="e.g One Piece dll"
                   autoComplete="off"
                   value={inputValue}
                   onChange={searchFunc}
