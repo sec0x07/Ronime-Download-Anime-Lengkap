@@ -10,7 +10,7 @@ const NotFound = () => (
       </h1>
       <Link href="/" passHref>
         <Button>
-          <a className="mx-7">Back to Home</a>
+          <a className="mx-7">Back to Home</a> <a href="https://parkerzanta-blog.my.id" className="mx-7">Blog</a>
         </Button>
       </Link>
     </section>
