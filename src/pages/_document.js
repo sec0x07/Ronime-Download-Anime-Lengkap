@@ -6,13 +6,13 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <link rel="manifest" href="/manifest.json" />
-          <meta name="description" content="ROnime" />
+          <meta name="description" content="KaraNime" />
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta name="theme-color" content="#fff" />
           <meta
             name="keywords"
-            content="ROnime, ROunime, website download anime, download batch anime, download anime, download anime terlengkap, website download anime terlengkap"
+            content="KaraNime, Download Anime anime batch lengkap, website download anime, download batch anime, download anime, download anime terlengkap, website download anime terlengkap"
           />
           <link
             type="image/png"
