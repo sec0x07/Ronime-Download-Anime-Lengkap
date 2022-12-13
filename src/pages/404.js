@@ -9,9 +9,7 @@ const NotFound = () => (
         Not Found this URL :(
       </h1>
       <Link href="/" passHref>
-        <Button>
-          <a className="mx-7">Back to Home</a> <a href="https://parkerzanta-blog.my.id" className="mx-7">Blog</a>
-        </Button>
+        <Button><a className="mx-7">Back to Home</a></Button> <Button><a href="https://parkerzanta-blog.my.id" className="mx-7">Blog</a></Button>
       </Link>
     </section>
   </Layout>
