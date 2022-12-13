@@ -8,8 +8,7 @@ const NotFound = () => (
       <h1 className="text-3xl md:text-4xl font-medium mb-4">
         Not Found this URL :(
       </h1>
-      <Button><a className="mx-7">Back to Home</a></Button> <Button><a href="https://parkerzanta-blog.my.id" className="mx-7">Blog</a></Button>
-      </Link>
+      <Button><a className="mx-7">Back to Home</a></Button><br><Button><a href="https://parkerzanta-blog.my.id" className="mx-7">Blog</a></Button>
     </section>
   </Layout>
 );
