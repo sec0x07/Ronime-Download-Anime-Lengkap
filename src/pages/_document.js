@@ -6,7 +6,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <link rel="manifest" href="/manifest.json" />
-          <meta name="description" content="KaraNime" />
+          <meta name="description" content="KaraNime Adalah tempat download Anime Batch terlengkap, mudah, dan tidak ada iklan yang mengganggu" />
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta name="theme-color" content="#fff" />
