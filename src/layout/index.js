@@ -10,6 +10,7 @@ const Layout = ({ children }) => (
         name="viewport"
         content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"
       />
+      <meta name="google-site-verification" content="Wb246OBYzaqXtALQ7tVsWze53MWMTrulMHrL8BnvDGA" />
     </Head>
     <div className="min-h-screen flex flex-col justify-between">
       <Navbar />
