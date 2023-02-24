@@ -18,130 +18,130 @@ class MyDocument extends Document {
             type="image/png"
             sizes="16x16"
             rel="icon"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             type="image/png"
             sizes="32x32"
             rel="icon"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             type="image/png"
             sizes="96x96"
             rel="icon"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             type="image/png"
             sizes="120x120"
             rel="icon"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="72x72"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="96x96"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="144x144"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="192x192"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="512x512"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="apple-touch-icon"
             type="image/png"
             sizes="57x57"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="apple-touch-icon"
             type="image/png"
             sizes="60x60"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="apple-touch-icon"
             type="image/png"
             sizes="72x72"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="apple-touch-icon"
             type="image/png"
             sizes="76x76"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="apple-touch-icon"
             type="image/png"
             sizes="114x114"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="apple-touch-icon"
             type="image/png"
             sizes="120x120"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="apple-touch-icon"
             type="image/png"
             sizes="144x144"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="apple-touch-icon"
             type="image/png"
             sizes="152x152"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             rel="apple-touch-icon"
             type="image/png"
             sizes="180x180"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <link
             color="#26E07F"
             rel="mask-icon"
-            href="https://assets.xs2.dev/img/karanime-top.png"
+            href="https://assets.xs2.dev/img/image.png"
           />
           <meta
             name="msapplication-square70x70logo"
-            content="https://assets.xs2.dev/img/karanime-top.png"
+            content="https://assets.xs2.dev/img/image.png"
           />
           <meta
             name="msapplication-TileImage"
-            content="https://assets.xs2.dev/img/karanime-top.png"
+            content="https://assets.xs2.dev/img/image.png"
           />
           <meta
             name="msapplication-square150x150logo"
-            content="https://assets.xs2.dev/img/karanime-top.png"
+            content="https://assets.xs2.dev/img/image.png"
           />
           <meta
             name="msapplication-square310x310logo"
-            content="https://assets.xs2.dev/img/karanime-top.png"
+            content="https://assets.xs2.dev/img/image.png"
           />
           <meta name="msapplication-TileColor" content="#C0FFEE"></meta>
         </Head>
