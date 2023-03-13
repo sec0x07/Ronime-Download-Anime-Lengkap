@@ -145,6 +145,14 @@ class MyDocument extends Document {
             content="https://domain-ko.xyz/karanime.png"
           />
           <meta name="msapplication-TileColor" content="#C0FFEE"></meta>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WT590PD75V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WT590PD75V');
+</script>
         </Head>
         <body>
           <Main />
