@@ -9,12 +9,12 @@ class MyDocument extends Document {
           <meta name="description" content="KaraNime Adalah tempat download Anime Batch Subtitle Indonesia terlengkap, mudah, dan tidak ada iklan yang mengganggu" />
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+          <meta name="google-site-verification" content="Wb246OBYzaqXtALQ7tVsWze53MWMTrulMHrL8BnvDGA" />
           <meta name="theme-color" content="#fff" />
           <meta
             name="keywords"
             content="KaraNime, Download Anime, anime batch Subtitle Indonesia, website download anime, download batch anime, download anime, download anime terlengkap, website download anime terlengkap, download anime batch, anime batch HD"
           />
-         <meta name="google-site-verification" content="Wb246OBYzaqXtALQ7tVsWze53MWMTrulMHrL8BnvDGA">
             <script async src="https://www.googletagmanager.com/gtag/js?id=G-WT590PD75V"></script>
       <script>
            window.dataLayer = window.dataLayer || [];
