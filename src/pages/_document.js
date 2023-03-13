@@ -15,14 +15,6 @@ class MyDocument extends Document {
             name="keywords"
             content="KaraNime, Download Anime, anime batch Subtitle Indonesia, website download anime, download batch anime, download anime, download anime terlengkap, website download anime terlengkap, download anime batch, anime batch HD"
           />
-            <script async src="https://www.googletagmanager.com/gtag/js?id=G-WT590PD75V"></script>
-      <script>
-           window.dataLayer = window.dataLayer || [];
-           function gtag(){dataLayer.push(arguments);}
-           gtag('js', new Date());
-
-           gtag('config', 'G-WT590PD75V');
-      </script>
           <link
             type="image/png"
             sizes="16x16"
