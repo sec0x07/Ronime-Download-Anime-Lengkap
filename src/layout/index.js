@@ -16,9 +16,11 @@ const Layout = ({ children }) => (
            window.dataLayer = window.dataLayer || [];
            function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
- 
+
            gtag('config', 'G-WT590PD75V');
       </script>
+
+
 
     </Head>
     <div className="min-h-screen flex flex-col justify-between">
