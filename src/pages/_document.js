@@ -13,7 +13,7 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#fff" />
           <meta
             name="keywords"
-            content="KaraNime, Download Anime, anime batch Subtitle Indonesia, website download anime, download batch anime, download anime, download anime terlengkap, website download anime terlengkap, download anime batch, anime batch HD"
+            content="KaraNime, Download Anime, Anime batch download, Anime batch eng sub, Anime batch torrent, Anime batch 480p, Anime batch 720p, Anime batch mega, Anime batch google drive, Anime batch download site, Anime batch streaming, anime batch Subtitle Indonesia, website download anime, download batch anime, download anime, download anime terlengkap, website download anime terlengkap, download anime batch, anime batch HD"
           />
           <link
             type="image/png"
@@ -145,14 +145,6 @@ class MyDocument extends Document {
             content="https://domain-ko.xyz/karanime.png"
           />
           <meta name="msapplication-TileColor" content="#C0FFEE"></meta>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WT590PD75V"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WT590PD75V');
-</script>
         </Head>
         <body>
           <Main />
