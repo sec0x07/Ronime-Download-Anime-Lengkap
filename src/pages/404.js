@@ -9,7 +9,7 @@ const NotFound = () => (
         Not Found this URL
       </h1>
       <Button>
-  <a href="https://www.domain-ko.xyz/" className="mx-7">Back Home</a>
+  <a href="https://www.karanime.top/" className="mx-7">Back Home</a>
      </Button>
     </section>
   </Layout>
