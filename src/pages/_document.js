@@ -13,7 +13,7 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#fff" />
           <meta
             name="keywords"
-            content="KaraNime, Download Anime, Anime batch download, Anime batch eng sub, Anime batch torrent, Anime batch 480p, Anime batch 720p, Anime batch mega, Anime batch google drive, Anime batch download site, Anime batch streaming, anime batch Subtitle Indonesia, website download anime, download batch anime, download anime, download anime terlengkap, website download anime terlengkap, download anime batch, anime batch HD"
+            content="KaraNime, Anime, batch, anime batch download, anime batch sub indo, anime batch terbaru, download anime batch, batch anime download, download anime batch sub indo, situs download anime batch, anime batch 480p, anime batch 720p, anime batch 1080p, situs download anime batch, situs nonton anime indonesia, anime subtitle indonesia, nonton anime indonesia, video anime indonesia, nonton anime gratis, film anime, nonton anime subtitle indonesia, karanime, animeindo, KaraNime, samehadaku, nonton anime sub indo, anime sub indo, anime terbaru 2023, Download Anime, Anime batch download, Anime batch eng sub, Anime batch torrent, Anime batch 480p, Anime batch 720p, Anime batch mega, Anime batch google drive, Anime batch download site, Anime batch streaming, anime batch Subtitle Indonesia, website download anime, download batch anime, download anime, download anime terlengkap, website download anime terlengkap, download anime batch, anime batch HD"
           />
           <link
             type="image/png"
