@@ -3,17 +3,17 @@ import { BsGlobe, BsInstagram, BsTwitter } from "react-icons/bs";
 const SocialMedia = [
   {
     sosmedName: "Website",
-    sosmedPath: "https://parkerzanta.net/",
+    sosmedPath: "https://www.karanime.top/",
     sosmedIcon: <BsGlobe />,
   },
   {
     sosmedName: "Instagram",
-    sosmedPath: "https://instagram.com/parkerzanta",
+    sosmedPath: "#",
     sosmedIcon: <BsInstagram />,
   },
   {
     sosmedName: "Twitter",
-    sosmedPath: "https://twitter.com/parkerzanta",
+    sosmedPath: "#",
     sosmedIcon: <BsTwitter />,
   },
 ];
